@@ -4,7 +4,9 @@ In this repo, I have mentioned few useful techniques that helps to extract the m
 ### 1. Image Restoration
 Original Image | Restored Image
 |:---------------------------:|:--------------------------:|
-![image](https://github.com/shekharma/Image-Processing-Techniques/assets/122733304/a836d6ae-6806-40c6-ac2c-1b6b5b09e8ee)
+![restored1](https://github.com/shekharma/Image-Processing-Techniques/assets/122733304/eb75fca0-89f7-4d99-b311-e319cd1fa792) | ![restored2](https://github.com/shekharma/Image-Processing-Techniques/assets/122733304/7a57afdb-da31-4d69-850f-8ca02c9bb614)
+
+
 
 ### 2. Linear Filtering
 ### 3. Independet Component Analysis
