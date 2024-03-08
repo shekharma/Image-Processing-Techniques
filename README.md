@@ -28,6 +28,7 @@ Original Image | Restored Image
 
 ### 4. Pixelation
 Original Image | Pixeled Image
+|:---------------------------:|:--------------------------:|
 ![image](https://github.com/shekharma/Image-Processing-Techniques/assets/122733304/eaa94192-2a8e-4376-912a-c0f2f073e1c4) | ![image](https://github.com/shekharma/Image-Processing-Techniques/assets/122733304/b972b5ee-4c3d-4031-b2c7-f5aac9352b8c)
 
 
